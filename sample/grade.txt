@@ -1,0 +1,4 @@
+tom 50
+jay 60
+mason 30
+joon 100
